@@ -30,7 +30,6 @@ def broke_file():
                     filename_path = os.path.join(dirpath, filename)
                     binary_data = read_binary_data(filename_path)
                     write_shuffle_binary_data(filename_path, binary_data)
-        return
 
 
 if __name__ == "__main__":
