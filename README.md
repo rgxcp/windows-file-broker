@@ -23,5 +23,7 @@ END OF LIFE
 5. Finally, we will write the shuffled binary into that file.
 
 NOTE: Please use this carefully, because there's no way to restore the file.
+
 Well, technically we could, we just need to run this program for `bytes` factorial times.
+
 Example, file with 5 bytes of data, we will need to run `5! = 120` times, and test every file to search the correct one.
