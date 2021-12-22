@@ -1,7 +1,5 @@
-# 🦠 Python - Windows File Broker
-**EN**: Simple Windows virus implementation to destroy files in directories.
-
-**ID**: Implementasi virus Windows sederhana untuk merusak file dalam direktori.
+# 🦠 Windows File Broker
+Simple Windows virus implementation to destroy files in directories.
 
 ## Status
 END OF LIFE
